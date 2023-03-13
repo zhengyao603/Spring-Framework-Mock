@@ -10,4 +10,3 @@
 
 ## 主要参考资源:
 * 《手写Spring：渐进式源码实践》- 付政委
-*  https://github.com/fuzhengwei/book-small-spring
